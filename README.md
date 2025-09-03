@@ -2,11 +2,11 @@
 
 This repository collects the field sampling slates that the Two Frontiers Project uses while collecting samples. Each PDF distills the steps for a specific phase of the work so the team can reference the instructions on site.
 
-The layouts follow the PADI® instructor slate system and are intended to be printed on waterproof plastic stock. Print them at the standard PADI slate size (about 5″×6″) and clip the sheets together with a ring or carabiner to take them into the field.
+The layouts follow the PADI® instructor slate system and are intended to be printed on waterproof plastic stock. Print them at 7.14″×4.8,″ punch a hole in the top left corner, and clip the sheets together with a ring or carabiner to take them into the field.
 
 ## Available slates
 
-- `2fp_handbook_slate_metadata-collection_v1.0.pdf` — metadata to record for every sample.
+- `2fp_handbook_slate_metadata-collection_v1.0.pdf` — metadata collection process for every sample.
 - `2fp_handbook_slate_terrestrial-sampling_v1.0.pdf` — collecting soil and other terrestrial material.
 - `2fp_handbook_slate_underwater-sampling_v1.0.pdf` — collecting material underwater.
 - `2fp_handbook_slate_processing-preservation_v1.0.pdf` — processing samples and preserving them for transport.
